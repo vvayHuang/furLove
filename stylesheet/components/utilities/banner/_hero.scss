@@ -1,0 +1,18 @@
+.hero{
+    height: 634px;
+    background-image: url(/stylesheet/asset/pic/home/home_mobile.png);
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    @media (min-width:576px) {
+        height: 810px;
+        background-image: url(/stylesheet/asset/pic/home/home.png);
+    }
+}
+.hero-content{
+    position: absolute;
+    font-size: 48px;
+    font-weight: bold;
+    color: rgb(131, 137, 119);
+    -webkit-text-stroke: 2px white;
+}

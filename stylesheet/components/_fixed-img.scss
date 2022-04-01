@@ -1,0 +1,18 @@
+.fixed{
+    .tooltips{
+        display: none;
+    }
+    .fixed-img{
+        transition-duration: .3s;
+        background-repeat: no-repeat;
+        background-image: url(../asset/pic/fixed/btn.png);
+    }
+}
+.fixed:hover{
+    .tooltips{
+        display: block;
+    }
+    .fixed-img{
+        background-image: url(../asset/pic/fixed/btn2.png);
+    }
+}

@@ -1,0 +1,13 @@
+.list-trans{
+    span{
+        display: none;
+    }
+}
+.list-trans:hover{
+    a{
+        color: $secondary;
+    }
+    span {
+        display: inline;
+    }
+}

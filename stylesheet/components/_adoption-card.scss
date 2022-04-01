@@ -1,0 +1,52 @@
+.adoption-card{
+    transition-duration: .3s;
+    box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2) ;
+    .adoption-card-img-1{
+        transition-duration: .3s;
+        background-image: url(../asset/pic/dog01.png);
+    }
+    .adoption-card-img-2{
+        transition-duration: .3s;
+        background-image: url(../asset/pic/04.png);
+    }
+    .adoption-card-img-3{
+        transition-duration: .3s;
+        background-image: url(../asset/pic/08.png);
+    }
+    .adoption-card-img-4{
+        transition-duration: .3s;
+        background-image: url(../asset/pic/06.png);
+    }
+    .adoption-card-img-5{
+        transition-duration: .3s;
+        background-image: url(../asset/pic/07.png);
+    }
+    .adoption-card-img-6{
+        transition-duration: .3s;
+        background-image: url(../asset/pic/05.png);
+    }
+}
+.adoption-card:hover{
+    box-shadow: 0px 5px 10px 5px rgba(0, 0, 0, 0.2) ;
+    a{
+        color: $secondary;
+    }
+    .adoption-card-img-1{
+        background-image: url(../asset/pic/hover/dog01-hover-1.png);
+    }
+    .adoption-card-img-2{
+        background-image: url(../asset/pic/hover/dog01-hover.png);
+    }
+    .adoption-card-img-3{
+        background-image: url(../asset/pic/hover/dog01-hover-2.png);
+    }
+    .adoption-card-img-4{
+        background-image: url(https://images.unsplash.com/photo-1602941953280-ea523175bcfc?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=580&q=80);
+    }
+    .adoption-card-img-5{
+        background-image: url(https://images.unsplash.com/photo-1596854273338-cbf078ec7071?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=580&q=80);
+    }
+    .adoption-card-img-6{
+        background-image: url(https://images.unsplash.com/photo-1558788353-f76d92427f16?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=580&q=80);
+    }
+}
