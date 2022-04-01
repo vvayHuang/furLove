@@ -12686,7 +12686,7 @@ fieldset:disabled .btn {
 
 .hero {
   height: 634px;
-  background-image: url("./stylesheet/asset/pic/home/home_mobile.png");
+  background-image: url("./stylesheet/asset/home/home_mobile.png");
   background-position: center center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -12695,7 +12695,7 @@ fieldset:disabled .btn {
 @media (min-width: 576px) {
   .hero {
     height: 810px;
-    background-image: url("./stylesheet/asset/pic/home/home.png");
+    background-image: url("./stylesheet/asset/home/home.png");
   }
 }
 
