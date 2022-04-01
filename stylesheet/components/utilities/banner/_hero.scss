@@ -1,12 +1,12 @@
 .hero{
     height: 634px;
-    background-image: url("./stylesheet/asset/home/home_mobile.png");
+    background-image: url("/stylesheet/asset/home/home_mobile.png");
     background-position: center center;
     background-size: cover;
     background-repeat: no-repeat;
     @media (min-width:576px) {
         height: 810px;
-        background-image: url("./stylesheet/asset/home/home.png");
+        background-image: url("/stylesheet/asset/home/home.png");
     }
 }
 .hero-content{
