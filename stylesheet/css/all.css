@@ -12686,7 +12686,7 @@ fieldset:disabled .btn {
 
 .hero {
   height: 634px;
-  background-image: url(/images/home_mobile.png);
+  background-image: url(../../../../images/home_mobile.png);
   background-position: center center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -12695,7 +12695,7 @@ fieldset:disabled .btn {
 @media (min-width: 576px) {
   .hero {
     height: 810px;
-    background-image: url(/images/home.png);
+    background-image: url(../../../../images/home.png);
   }
 }
 
@@ -12818,37 +12818,37 @@ fieldset:disabled .btn {
 .adoption-card .adoption-card-img-1 {
   -webkit-transition-duration: .3s;
           transition-duration: .3s;
-  background-image: url(/images/dog01.png);
+  background-image: url(../../images/dog01.png);
 }
 
 .adoption-card .adoption-card-img-2 {
   -webkit-transition-duration: .3s;
           transition-duration: .3s;
-  background-image: url(/images/04.png);
+  background-image: url(../../images/04.png);
 }
 
 .adoption-card .adoption-card-img-3 {
   -webkit-transition-duration: .3s;
           transition-duration: .3s;
-  background-image: url(/images/08.png);
+  background-image: url(../../images/08.png);
 }
 
 .adoption-card .adoption-card-img-4 {
   -webkit-transition-duration: .3s;
           transition-duration: .3s;
-  background-image: url(/images/06.png);
+  background-image: url(../../images/06.png);
 }
 
 .adoption-card .adoption-card-img-5 {
   -webkit-transition-duration: .3s;
           transition-duration: .3s;
-  background-image: url(/images/07.png);
+  background-image: url(../../images/07.png);
 }
 
 .adoption-card .adoption-card-img-6 {
   -webkit-transition-duration: .3s;
           transition-duration: .3s;
-  background-image: url(/images/05.png);
+  background-image: url(../../images/05.png);
 }
 
 .adoption-card:hover {
@@ -12861,15 +12861,15 @@ fieldset:disabled .btn {
 }
 
 .adoption-card:hover .adoption-card-img-1 {
-  background-image: url(/images/hover/dog01-hover-1.png);
+  background-image: url(../../images/hover/dog01-hover-1.png);
 }
 
 .adoption-card:hover .adoption-card-img-2 {
-  background-image: url(/images/hover/dog01-hover.png);
+  background-image: url(../../images/hover/dog01-hover.png);
 }
 
 .adoption-card:hover .adoption-card-img-3 {
-  background-image: url(/images/hover/dog01-hover-2.png);
+  background-image: url(../../images/hover/dog01-hover-2.png);
 }
 
 .adoption-card:hover .adoption-card-img-4 {
