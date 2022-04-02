@@ -12804,7 +12804,7 @@ fieldset:disabled .btn {
 
 .pill-btn-bg-secondary:hover {
   background-color: #F9C745;
-  border: #F9C745;
+  border-color: #F9C745;
   color: #3A3A3A;
 }
 
