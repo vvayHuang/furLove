@@ -630,6 +630,18 @@ $utilities: map-merge(
       class: rounded-top-24px,
       values: (null: 24px)
     ),
+    "backdrop-filter": (
+      responsive: true,
+      property: backdrop-filter,
+      class: backdrop-filter-blur,
+      values: (
+        1: blur(1px),
+        2: blur(2px),
+        3: blur(3px),
+        4: blur(4px),
+        5: blur(5px),
+      )
+    ),
     // scss-docs-end utils-visibility
   ),
   $utilities

@@ -5,7 +5,7 @@
     .fixed-img{
         transition-duration: .3s;
         background-repeat: no-repeat;
-        background-image: url(../asset/pic/fixed/btn.png);
+        background-image: url(../../images/btn.png);
     }
 }
 .fixed:hover{
@@ -13,6 +13,6 @@
         display: block;
     }
     .fixed-img{
-        background-image: url(../asset/pic/fixed/btn2.png);
+        background-image: url(../../images/btn2.png);
     }
 }

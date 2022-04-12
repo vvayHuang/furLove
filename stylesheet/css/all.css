@@ -9252,6 +9252,31 @@ fieldset:disabled .btn {
   border-top-right-radius: 24px !important;
 }
 
+.backdrop-filter-blur-1 {
+  -webkit-backdrop-filter: blur(1px) !important;
+          backdrop-filter: blur(1px) !important;
+}
+
+.backdrop-filter-blur-2 {
+  -webkit-backdrop-filter: blur(2px) !important;
+          backdrop-filter: blur(2px) !important;
+}
+
+.backdrop-filter-blur-3 {
+  -webkit-backdrop-filter: blur(3px) !important;
+          backdrop-filter: blur(3px) !important;
+}
+
+.backdrop-filter-blur-4 {
+  -webkit-backdrop-filter: blur(4px) !important;
+          backdrop-filter: blur(4px) !important;
+}
+
+.backdrop-filter-blur-5 {
+  -webkit-backdrop-filter: blur(5px) !important;
+          backdrop-filter: blur(5px) !important;
+}
+
 @media (min-width: 576px) {
   .float-sm-start {
     float: left !important;
@@ -9924,6 +9949,26 @@ fieldset:disabled .btn {
   }
   .text-sm-center {
     text-align: center !important;
+  }
+  .backdrop-filter-blur-sm-1 {
+    -webkit-backdrop-filter: blur(1px) !important;
+            backdrop-filter: blur(1px) !important;
+  }
+  .backdrop-filter-blur-sm-2 {
+    -webkit-backdrop-filter: blur(2px) !important;
+            backdrop-filter: blur(2px) !important;
+  }
+  .backdrop-filter-blur-sm-3 {
+    -webkit-backdrop-filter: blur(3px) !important;
+            backdrop-filter: blur(3px) !important;
+  }
+  .backdrop-filter-blur-sm-4 {
+    -webkit-backdrop-filter: blur(4px) !important;
+            backdrop-filter: blur(4px) !important;
+  }
+  .backdrop-filter-blur-sm-5 {
+    -webkit-backdrop-filter: blur(5px) !important;
+            backdrop-filter: blur(5px) !important;
   }
 }
 
@@ -10600,6 +10645,26 @@ fieldset:disabled .btn {
   .text-md-center {
     text-align: center !important;
   }
+  .backdrop-filter-blur-md-1 {
+    -webkit-backdrop-filter: blur(1px) !important;
+            backdrop-filter: blur(1px) !important;
+  }
+  .backdrop-filter-blur-md-2 {
+    -webkit-backdrop-filter: blur(2px) !important;
+            backdrop-filter: blur(2px) !important;
+  }
+  .backdrop-filter-blur-md-3 {
+    -webkit-backdrop-filter: blur(3px) !important;
+            backdrop-filter: blur(3px) !important;
+  }
+  .backdrop-filter-blur-md-4 {
+    -webkit-backdrop-filter: blur(4px) !important;
+            backdrop-filter: blur(4px) !important;
+  }
+  .backdrop-filter-blur-md-5 {
+    -webkit-backdrop-filter: blur(5px) !important;
+            backdrop-filter: blur(5px) !important;
+  }
 }
 
 @media (min-width: 992px) {
@@ -11274,6 +11339,26 @@ fieldset:disabled .btn {
   }
   .text-lg-center {
     text-align: center !important;
+  }
+  .backdrop-filter-blur-lg-1 {
+    -webkit-backdrop-filter: blur(1px) !important;
+            backdrop-filter: blur(1px) !important;
+  }
+  .backdrop-filter-blur-lg-2 {
+    -webkit-backdrop-filter: blur(2px) !important;
+            backdrop-filter: blur(2px) !important;
+  }
+  .backdrop-filter-blur-lg-3 {
+    -webkit-backdrop-filter: blur(3px) !important;
+            backdrop-filter: blur(3px) !important;
+  }
+  .backdrop-filter-blur-lg-4 {
+    -webkit-backdrop-filter: blur(4px) !important;
+            backdrop-filter: blur(4px) !important;
+  }
+  .backdrop-filter-blur-lg-5 {
+    -webkit-backdrop-filter: blur(5px) !important;
+            backdrop-filter: blur(5px) !important;
   }
 }
 
@@ -11950,6 +12035,26 @@ fieldset:disabled .btn {
   .text-xl-center {
     text-align: center !important;
   }
+  .backdrop-filter-blur-xl-1 {
+    -webkit-backdrop-filter: blur(1px) !important;
+            backdrop-filter: blur(1px) !important;
+  }
+  .backdrop-filter-blur-xl-2 {
+    -webkit-backdrop-filter: blur(2px) !important;
+            backdrop-filter: blur(2px) !important;
+  }
+  .backdrop-filter-blur-xl-3 {
+    -webkit-backdrop-filter: blur(3px) !important;
+            backdrop-filter: blur(3px) !important;
+  }
+  .backdrop-filter-blur-xl-4 {
+    -webkit-backdrop-filter: blur(4px) !important;
+            backdrop-filter: blur(4px) !important;
+  }
+  .backdrop-filter-blur-xl-5 {
+    -webkit-backdrop-filter: blur(5px) !important;
+            backdrop-filter: blur(5px) !important;
+  }
 }
 
 @media (min-width: 1400px) {
@@ -12625,6 +12730,26 @@ fieldset:disabled .btn {
   .text-xxl-center {
     text-align: center !important;
   }
+  .backdrop-filter-blur-xxl-1 {
+    -webkit-backdrop-filter: blur(1px) !important;
+            backdrop-filter: blur(1px) !important;
+  }
+  .backdrop-filter-blur-xxl-2 {
+    -webkit-backdrop-filter: blur(2px) !important;
+            backdrop-filter: blur(2px) !important;
+  }
+  .backdrop-filter-blur-xxl-3 {
+    -webkit-backdrop-filter: blur(3px) !important;
+            backdrop-filter: blur(3px) !important;
+  }
+  .backdrop-filter-blur-xxl-4 {
+    -webkit-backdrop-filter: blur(4px) !important;
+            backdrop-filter: blur(4px) !important;
+  }
+  .backdrop-filter-blur-xxl-5 {
+    -webkit-backdrop-filter: blur(5px) !important;
+            backdrop-filter: blur(5px) !important;
+  }
 }
 
 @media (min-width: 1200px) {
@@ -12791,7 +12916,7 @@ fieldset:disabled .btn {
   -webkit-transition-duration: .3s;
           transition-duration: .3s;
   background-repeat: no-repeat;
-  background-image: url(../asset/pic/fixed/btn.png);
+  background-image: url(../../images/btn.png);
 }
 
 .fixed:hover .tooltips {
@@ -12799,7 +12924,7 @@ fieldset:disabled .btn {
 }
 
 .fixed:hover .fixed-img {
-  background-image: url(../asset/pic/fixed/btn2.png);
+  background-image: url(../../images/btn2.png);
 }
 
 .pill-btn-bg-secondary:hover {
@@ -12894,5 +13019,9 @@ fieldset:disabled .btn {
 
 .list-trans:hover span {
   display: inline;
+}
+
+.navbar-nav .nav-link.active {
+  font-weight: bold;
 }
 /*# sourceMappingURL=all.css.map */
